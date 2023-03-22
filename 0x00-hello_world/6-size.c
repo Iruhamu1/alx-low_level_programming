@@ -18,3 +18,4 @@ printf("size of a long int: %lu bite(s)\n", (unsigned long)sizeof(c));
 printf("size of a long long int: %lu bite(s)\n", (unsigned long)sizeof(d));
 printf("size of a float: %lu bite(s)\n", (unsigned long)sizeof(f));
 return (0);
+}
